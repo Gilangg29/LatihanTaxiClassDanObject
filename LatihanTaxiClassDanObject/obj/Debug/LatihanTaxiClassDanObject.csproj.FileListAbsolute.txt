@@ -1,0 +1,6 @@
+D:\Codes\Pemrograman\LatihanTaxiClassDanObject\LatihanTaxiClassDanObject\bin\Debug\LatihanTaxiClassDanObject.exe.config
+D:\Codes\Pemrograman\LatihanTaxiClassDanObject\LatihanTaxiClassDanObject\bin\Debug\LatihanTaxiClassDanObject.exe
+D:\Codes\Pemrograman\LatihanTaxiClassDanObject\LatihanTaxiClassDanObject\bin\Debug\LatihanTaxiClassDanObject.pdb
+D:\Codes\Pemrograman\LatihanTaxiClassDanObject\LatihanTaxiClassDanObject\obj\Debug\LatihanTaxiClassDanObject.csprojResolveAssemblyReference.cache
+D:\Codes\Pemrograman\LatihanTaxiClassDanObject\LatihanTaxiClassDanObject\obj\Debug\LatihanTaxiClassDanObject.exe
+D:\Codes\Pemrograman\LatihanTaxiClassDanObject\LatihanTaxiClassDanObject\obj\Debug\LatihanTaxiClassDanObject.pdb
